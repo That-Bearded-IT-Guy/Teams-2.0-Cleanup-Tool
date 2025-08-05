@@ -37,5 +37,6 @@ Use at your own risk. This script is provided as-is with no warranties or guaran
 
 ## Related Blog Post
 
-Read the full article on my site: [When New Teams Breaks (and Keeps Breaking)](https://thatbeardeditguy.com/blog/teams-2.0-sign-in-fix)
+Read the full article on my site: [The Microsoft Teams Sign-In Nightmare (and How I Finally Fixed It)](https://thatbeardeditguy.com/the-microsoft-teams-sign-in-nightmare-and-how-i-finally-fixed-it)
+
 
