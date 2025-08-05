@@ -1,6 +1,9 @@
 # Teams 2.0 Cleanup Tool
 
-**Author:** [That Bearded IT Guy](https://thatbeardeditguy.com)  
+**Author:** [That Bearded IT Guy](https://thatbeardeditguy.com) 
+<p align="center"> <img src="Logo.png" alt="That Bearded IT Guy Logo" width="150"/> </p>
+
+---
 **Purpose:** Automates the cleanup of Microsoft Teams 2.0 caches and credentials to resolve stubborn sign-in loop issues.
 
 ---
